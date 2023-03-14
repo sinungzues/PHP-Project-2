@@ -1,0 +1,19 @@
+.boxsatu{
+    position: absolute;
+    width: 100px;
+    left: 80px;
+    top: 230px;
+}
+.boxdua{
+    position: absolute;
+    width: 110px;
+    left: 10px;
+    top: 200px;
+}
+hr{
+    border: 0.5px solid black;
+    opacity: 100;
+    width: 175px;
+    margin-top: -18px;
+    margin-left: 30px;
+}
